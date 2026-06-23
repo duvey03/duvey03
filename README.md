@@ -6,10 +6,12 @@ I build production geospatial and machine-learning systems, grounded in deep
 domain experience across structural geology, mineral exploration, and
 subsurface modelling.
 
-🛰️ **Phaseview.ca** — Founder & lead developer. Full-stack geospatial platform
-(FastAPI · PostgreSQL/PostGIS · React · Mapbox GL) with a PyTorch hybrid
-multimodal document classifier (ResNet50 + LayoutLMv3). 35,000+ documents
-ingested in production.
+🔗 **Live production app → [phaseview.ca](https://phaseview.ca)**
+
+🛰️ **[Phaseview.ca](https://phaseview.ca)** — Founder & lead developer. Full-stack
+geospatial platform (FastAPI · PostgreSQL/PostGIS · React · Mapbox GL) with a
+PyTorch hybrid multimodal document classifier (ResNet50 + LayoutLMv3).
+35,000+ documents ingested in production.
 
 ⛰️ **[PlaneSight](https://github.com/duvey03/PlaneSight)** — Derives geological
 strike & dip from free, global DEM + Sentinel-2 data, automatically and at
